@@ -2,3 +2,13 @@
 title=HTTP (Web) Server
 description=HTTP (Web) Server
 ports=80/tcp
+
+[HTTPS]
+title=Secure HTTP (Web) Server
+description=HTTP (Web) Server
+ports=443/tcp
+
+[HTTP Cache]
+title=HTTP Cache Server
+description=HTTP Cache Server (8080)
+ports=8080/tcp

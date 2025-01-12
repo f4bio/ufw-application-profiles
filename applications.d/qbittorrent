@@ -1,0 +1,9 @@
+[qBittorrent]
+title=qBittorrent
+description=qBittorrent BitTorrent client
+ports=56881/tcp|56881/udp
+
+[qBittorrent Web]
+title=qBittorrent Web
+description=qBittorrent BitTorrent client
+ports=8080/tcp

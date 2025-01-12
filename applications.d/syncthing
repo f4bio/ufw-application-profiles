@@ -1,0 +1,9 @@
+[Syncthing]
+title=Syncthing Service
+description=Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it’s transmitted over the internet.
+ports=22000/tcp|21027,22000/udp
+
+[Syncthing Web]
+title=Syncthing Service Web Interface
+description=Syncthing is a continuous file synchronization program. It synchronizes files between two or more computers in real time, safely protected from prying eyes. Your data is your data alone and you deserve to choose where it is stored, whether it is shared with some third party, and how it’s transmitted over the internet.
+ports=8384/tcp
