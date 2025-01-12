@@ -1,3 +1,8 @@
+[IMAP]
+title=Mail server (IMAP)
+description=Mail server (IMAP)
+ports=143/tcp
+
 [IMAPS]
 title=Secure mail server (IMAPS)
 description=Secure mail server (IMAPS)
